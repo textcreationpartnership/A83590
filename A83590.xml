@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes in Parliament. 1 That the carrying the King prisoner to Hurst Castle, is against the consent of Parliament. 2 That His Majesties concessions tend to the settlement of the peace of the kingdome. 3 That a committee go to the L. Generall, about demanding His Majesties person. Also a speech, and some papers delivered to the Lord Generall Fairfax, by one that is accounted a prophet, with some predictions concerning the present designe of the Army; and the prosperity of the King, and his posterity. With a fight neere Worcester, and the particulars thereof.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83590</idno><idno type="EEBO-CITATION">99864792</idno>
+  <idno type="VID">117024</idno>
+  <idno type="EEBO-PROQUEST">2240912154</idno>
+  
+            <idno type="STC">Wing E2445</idno>
+            <idno type="STC">Thomason E475_16</idno>
+            <idno type="STC">ESTC R205394</idno>
+            <idno type="PROQUEST">99864792</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864792e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117024)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes in Parliament. 1 That the carrying the King prisoner to Hurst Castle, is against the consent of Parliament. 2 That His Majesties concessions tend to the settlement of the peace of the kingdome. 3 That a committee go to the L. Generall, about demanding His Majesties person. Also a speech, and some papers delivered to the Lord Generall Fairfax, by one that is accounted a prophet, with some predictions concerning the present designe of the Army; and the prosperity of the King, and his posterity. With a fight neere Worcester, and the particulars thereof.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 6th".</note>
+                  <note>A newsbook.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  Votes. 1648.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117024:1"/>
+            <p> VOTES IN PARLIAMENT.</p>
+            <list>
+               <item>1 That the carrying the King prisoner to Hurst Castle, is against the consent of Parliament.</item>
+               <item>2 That His Majesties Concessions tend to the settlement of the peace of the King<g ref="char:EOLhyphen"/>dome.</item>
+               <item>3 That a Committee go to the L. Generall, about demanding His Majesties person.</item>
+            </list>
+            <p>ALSO A Speech▪ and some Papers delivered to the Lord Generall <hi>Fairfax,</hi> by one that is accounted a Prophet, with some predictions concerning the present Designe of the Army; and the prosperity of the KING, and His Posterity.</p>
+            <p>With a fight neere <hi>Worcester,</hi> and the particulars thereof.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>R. A.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117024:2"/>
+            <p> THe Treaty being at a period, the face of things in the Isle of Wight are much changed; the Pomp and State of a Court lookes like (at the best) a roy<g ref="char:EOLhyphen"/>all prison: some say the difference between his Maje<g ref="char:EOLhyphen"/>sty and the Commissioners was scarce discernable, but they must be gone, and with a gentle salute to his Majesties hand, and other expressions of hearty af<g ref="char:EOLhyphen"/>fections, take their leaves.</p>
+            <p>Colonell <hi>Hammond</hi> also comes to his Majesty and tells him; he is commanded to the Head-quarters at Windsor, and was informed another Governour of that Iland would forthwith succeed: Then the King askes him, who for the present he left as his Deputy to command in chiefe, and in particular to take charge of his person; to this Colonell <hi>Hammond</hi> answers, that he would leave it to him that was next in office and place (Major <hi>Rolph,)</hi> his Majesty then re<g ref="char:EOLhyphen"/>plyed, that he could not name any that could be so pleasing to his own thoughts as Mr. <hi>Rolph,</hi> from whom he had alwaies found very civill respects, having ever since he knew him, reteined an opinion that he is a very godly man, and if it might be in his own choise, he would more willingly commit himselfe to his care then any other that he knew, saying further to Co<g ref="char:EOLhyphen"/>lonell <hi>Hammond,</hi> that he thought he should not see him againe in the Isle of Wight, but was likely to see
+<pb n="3" facs="tcp:117024:3"/> him at Windsor or thereabout shortly; Colonell <hi>Hammond</hi> comes to the Head-quarters and receives a check, because he gave not such ready obedience to orders as was required; neverthelesse had liberty to go upon his parroll to stay at Reading.</p>
+            <p>The first of Decemb. is newes at the Head-quarters, that the old Malignants in many parts of this King<g ref="char:EOLhyphen"/>dome are very bold, and in some Counties scarce any other favoured by the Committee. In the County of Worcester Sir <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Clare</hi> and Sir <hi>Iohn Windford,</hi> men that have alwaies acted against the Parliament, are at liberty, yet no satisfaction given for their delinquen<g ref="char:EOLhyphen"/>cie; The Governour of Harthelbery Castle Captaine <hi>Inet,</hi> with the advice of the well affected in that County, comes up to the Parliament, in his absence the Country is raised to demolish the workes of the Castle: The Deputy Governour capitulates the busi<g ref="char:EOLhyphen"/>nesse, and will see their authority, but showing none, he let them know by what warrant he kept it, and sent some bullets into their breeches, which divers of them were forced to carry away with grief, and not find<g ref="char:EOLhyphen"/>ing themselves able to make party good with the de<g ref="char:EOLhyphen"/>fendents in the Castle, they went away with this en<g ref="char:EOLhyphen"/>tertainment: but within few daies after some of the Committee came, and shewed an Order of Parlia<g ref="char:EOLhyphen"/>ment of a later date for demolishing the Workes, and disbanding the souldiers, which was submitted to, and the works are cast down accordingly.</p>
+            <p>The 2. of Decemb. the Kings person was seized on by some Officers of the Army, and carried out of the Island to Hurst Castle, which is over against it on Hampshire side.</p>
+            <pb n="3" facs="tcp:117024:3"/>
+            <p> The 4. of Decemb. came to the Lord Generall one that is a high German and a great Scholler, one that is called a Prophet, when there was admitted into his Excellencies presence, he made a long Speech to this eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, That he did reverence and honor his Lord<g ref="char:EOLhyphen"/>ship, for that God had done great things by him, but he now came to him to acquaint him in the name of God, that he is not pleased with this Nation; and that they (viz. the Army) do not act upon right principles: God is a God of love, he dwells in love, those that seek to destroy are not in love or of God, but are of the destroyer, and follow wrong princi<g ref="char:EOLhyphen"/>ples.</p>
+            <p>His Excellencie demanded of him, whether he had any thing to say more then what was held forth by the Word of God.</p>
+            <p>To which the Prophet replyed, that he had not a<g ref="char:EOLhyphen"/>ny Commission to deliver any thing to his Excellencie but what he would maintain by the written Word.</p>
+            <p>This German also said, that the King had done a<g ref="char:EOLhyphen"/>misse, but ought to be forgiven; and that God would defend and support him, so that he shall in the end subdue all his Enemies, and either raigne here, or in a better world.</p>
+            <p>After this he delivered some Papers to the Generall, to take into consideration, and took his leave.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:117024:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Westminster, Die Martis,</hi> 5. <hi>Decemb.</hi> 1648.</date>
+               </dateline>
+            </opener>
+            <p>The Commons sate all night in debate of the great affaires of the Kingdome as it now stands, and upon reading of Letters, certify<g ref="char:EOLhyphen"/>ing that the King was taken into custody, and carried prisoner to Hurst Castle, it was lookt upon as a very dishonourable action, the Parliament having no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet past any Vote about his Majesties last Concessions whether satisfactory or unsatisfactory; And after some houres spent in this discourse, the businesse came to the Vote as followeth.</p>
+            <div type="part">
+               <head>Resolved upon the Question.</head>
+               <p n="1">1 <hi>That the seizing upon the Person of the</hi> King, <hi>and carrying him prisoner to</hi> Hurst Castle, <hi>was against the consent of the House, and therein a breach of Pri<g ref="char:EOLhyphen"/>viledge, &amp;c.</hi>
+               </p>
+               <p>The question was then moved, what
+<pb n="5" facs="tcp:117024:4"/> those should be deemed that did with<g ref="char:EOLhyphen"/>out advice of Parliament dispose of the Kings person, and whether this question should be put?</p>
+            </div>
+            <div type="part">
+               <head>Resolved upon the question, &amp;c.</head>
+               <p n="2">2 <hi>That the question last before stated should not be put.</hi>
+               </p>
+               <p>After this the House debated on his Majesties Concessions.</p>
+               <p>This businesse had occasioned very long debates two days together before, whether they were satisfactory or un<g ref="char:EOLhyphen"/>satisfactory, and it was now thought good that that question should be laid aside; whereupon another was stated.</p>
+            </div>
+            <div type="part">
+               <head>Resolved, &amp;c.</head>
+               <p n="3">3 That a great part of His Maje<g ref="char:EOLhyphen"/>sties Concessions to the Propositions of Parliament lately treated on, do tend to<g ref="char:EOLhyphen"/>wards a faire and probable way for set<g ref="char:EOLhyphen"/>ling the kingdome in peace, and begetting
+<pb n="6" facs="tcp:117024:5"/> a good understanding in the people.</p>
+            </div>
+            <div type="part">
+               <head>Resolved, &amp;c.</head>
+               <p n="4">4 That a Committee of this House do repaire to the Lord Generall <hi>Fairfax,</hi> and chief Officers, to inquire by what au<g ref="char:EOLhyphen"/>thority His Majesty was carried out of the Isle of Wight, and who they were that did it.</p>
+            </div>
+            <div type="part">
+               <head>Resolved, &amp;c.</head>
+               <p n="5">5 That this House shall adjourn from their present sitting, untill to morrow morning eight a clocke, being the 6. day of this instant December.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
